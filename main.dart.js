@@ -114405,7 +114405,7 @@ return new A.eo(A.en(new A.bE(r)))},
 $S:672}
 A.XV.prototype={
 L(a){var s=null,r=A.kb(a,!0,t.eC),q=A.kb(a,!0,t.o3),p=r.a
-return new A.FY(B.MU,"Center de formation Afaq",A.oq(B.aO,s,B.a_,A.b54(A.oq(B.aO,s,s,s,s).ok),!0),A.oq(B.aT,s,B.a_,A.b54(A.oq(B.aT,s,s,s,s).ok),!0),p,q.a,B.a91,B.a6H,!1,s)}}
+return new A.FY(B.MU,"Centre de formation Afaq",A.oq(B.aO,s,B.a_,A.b54(A.oq(B.aO,s,s,s,s).ok),!0),A.oq(B.aT,s,B.a_,A.b54(A.oq(B.aT,s,s,s,s).ok),!0),p,q.a,B.a91,B.a6H,!1,s)}}
 A.Qp.prototype={
 L(a){var s=A.kb(a,!0,t.b0).a
 return A.dl(new A.aeJ(),s.Da(s.gmv().jX()),t.t6)}}
@@ -120359,8 +120359,8 @@ s=n.gdW().length===0?8:9
 break
 case 8:A.iX().$1("No admin found. Creating default admin...")
 q=11
-m="fouad.azbi@gmail.com"
-l="123456"
+m="EAF.microservice@gmail.com"
+l="123456/"
 f=$.ar
 e=(f==null?$.ar=$.bM():f).c8("[DEFAULT]")
 f=$.ce()
